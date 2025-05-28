@@ -34,7 +34,7 @@ This repository contains three Python programs that demonstrate fundamental exce
 3. Run the programs directly using Python
 
 ```bash
-python3 error-handling.py
+python error-handling.py
 ```
 
 ## 💻 Usage
@@ -170,7 +170,7 @@ This block always executes.
 ## 🏗️ Code Structure
 
 ```
-exception_handling_demo.py
+error-handling.py
 ├── Task 1: Basic Exception Handling
 │   ├── Input validation loop
 │   ├── ZeroDivisionError handling
@@ -195,6 +195,11 @@ Feel free to contribute improvements or additional examples:
 3. Add your improvements
 4. Submit a pull request
 
+## 📝 Notes
+
+- Each task can be run independently
+- All examples use built-in Python exceptions
+- Code includes comprehensive comments for learning
 
 ## 🔗 Additional Resources
 
