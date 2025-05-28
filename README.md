@@ -12,11 +12,11 @@ A comprehensive collection of Python programs demonstrating exception handling c
   - [Task 1: Understanding Python Exceptions](#task-1-understanding-python-exceptions)
   - [Task 2: Types of Exceptions](#task-2-types-of-exceptions)
   - [Task 3: Complete Exception Handling](#task-3-complete-exception-handling)
-- [Learning Objectives](#learning-objectives)
-- [Exception Types Covered](#exception-types-covered)
-- [Example Outputs](#example-outputs)
-- [Best Practices](#best-practices)
-- [Contributing](#contributing)
+- [Learning Objectives](##learning-objectives)
+- [Exception Types Covered](##exception-types-covered)
+- [Example Outputs](##example-outputs)
+- [Best Practices](##best-practices)
+- [Contributing](##contributing)
 
 ## 🎯 Overview
 
